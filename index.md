@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# 个人信息
+## 姓名：张铖
+## 年龄：17
+## 籍贯：湖北黄冈
+## 学校：浙江万里学院
+## 兴趣爱好：篮球，跑步，游泳，看电影，魔方
+## 所学专业：通信工程
 
-You can use the [editor on GitHub](https://github.com/Zhangcheng399/Zhangcheng.github-io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# 荣誉奖励：
+## 奖励：英语口语大赛一等奖，语文朗诵比赛一等奖，书法大赛二等奖
+## 曾获职位：纪律委员，物理课代表
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 未来计划
+## 1.考研：就本人目前的学历来说，还不足以算得上出色，所以必须通过考研来提升自己。
 
-### Markdown
+## 2.创业：对于大学生来说，创业是一个有利有弊的事情，但是我还是打算尝试创业，不过应该是在大学后期，前期不会考虑的。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zhangcheng399/Zhangcheng.github-io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 3.工作：如果创业失败了，我还是会选择工作
